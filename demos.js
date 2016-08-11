@@ -103,6 +103,16 @@ var demos = [
     preview: 'resources/icons/waves.png',
     darkTheme: true,
   },
+  {
+    name: 'Phone',
+    path: 'phone/',
+    shade: '#c6dbfe',
+    preview: 'resources/icons/phone.png',
+    description: [
+      "Drag the toolbar at the bottom up"
+    ],
+  },
+  
 
   // TODO: Port legacy demos to use current Web Animations API.
   // See https://github.com/web-animations/web-animations-demos/pull/74
